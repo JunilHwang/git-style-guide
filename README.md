@@ -21,11 +21,11 @@ Kernel*](https://www.kernel.org/doc/Documentation/SubmittingPatches)에서 영�
 
 # 목차
 
-1. [Branches](#branches)
-2. [Commits](#commits)
-  1. [Messages](#messages)
-3. [Merging](#merging)
-4. [Misc.](#misc)
+1. [Branches](#branches-브랜치)
+2. [Commits](#commits-커밋)
+  1. [Messages](#messages-메시지)
+3. [Merging](#merging-머지)
+4. [Misc.](#misc-기타)
 
 ## Branches (브랜치)
 
@@ -59,7 +59,7 @@ Kernel*](https://www.kernel.org/doc/Documentation/SubmittingPatches)에서 영�
   ```
 
   개인이 작업한 브랜치는 계속해서 팀이 구현하는 브랜치로 합쳐지고 나중에 "master"와 
-  합쳐질 것입니다. (see ["Merging"](#merging)).
+  합쳐질 것입니다. (see ["Merging"](#merging-머지)).
 
 * 브랜치가 머지된 이후에는 (남겨둬야 할 특별한 이유가 없다면) 리파지토리에서 삭제합니다. 
 
